@@ -1,0 +1,22 @@
+/*
+*/
+
+.sort-handle{
+height: 100px;
+width: 100px;
+display: block;
+background-color: #000;
+cursor: grab;
+}
+
+
+.sal-template {
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid;
+}
+
+.sal-editor-content.ui-sortable {
+    padding: 20px;
+    border: 1px solid red;
+}
